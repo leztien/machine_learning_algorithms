@@ -1,1 +1,3 @@
-## machine learning algorithms written from scratch
+# machine learning algorithms written from scratch
+
+
